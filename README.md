@@ -7,9 +7,8 @@ As part of Udacity Honor code, your submissions must be your own work, hence
 submitting this project as yours will cause you to break the Udacity Honor Code
 and the suspension of your account.
 
-The files provided here should only be used in accordance to the rules and 
-regulations stipulated by Udacity with regard to the code made available as
-part of project for its Nanodegree programs.
+The files provided here should only be used in accordance with the rules and 
+regulations stipulated by Udacity for the project files of its Nanodegree programs.
 
 Me, the author of the project, allow you to check the code as a reference.
 
