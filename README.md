@@ -1,7 +1,7 @@
 PROJECT LICENSE
 
 This project was submitted by Vimal kumar V as part of the Sensor Fusion
-Nanodegree At Udacity completed on 23-10-2019.
+Nanodegree At Udacity (completed on 23-10-2019).
 
 As part of Udacity Honor code, your submissions must be your own work, hence
 submitting this project as yours will cause you to break the Udacity Honor Code
