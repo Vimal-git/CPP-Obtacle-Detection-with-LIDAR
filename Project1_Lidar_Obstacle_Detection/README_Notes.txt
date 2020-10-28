@@ -1,5 +1,6 @@
-####### Line numbers & notes on implemented code ###################
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+This project implements segmentation and clustering of point cloud data from LIDAR
+
+The lines of code authored as per my logic are specified below
 
 SEGMENTATION IMPLEMENTATION
 *******************************************
