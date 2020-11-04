@@ -1,4 +1,5 @@
 This project was submitted by Vimal kumar V as part of the Sensor Fusion Nanodegree At Udacity (completed on 23-10-2019).
+A folder named dat with the yolo model is NOT uploaded here, hence the yolo model needs to be downloaded from else where for this program to work.
 
 As part of Udacity Honor code, your submissions to Udacity must be your own work, hence submitting this project as yours will cause you to break the Udacity Honor Code.
 
