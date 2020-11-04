@@ -11,6 +11,7 @@ CLUSTERING IMPLEMENTATION
     	Added structs-Node,KdTree,clust(with new functions-(a)-clusterHelper2 (b)euclideanCluster(minSize,maxSize)
                  
 ####################################################################
+
 This project was submitted by Vimal kumar V as part of the Sensor Fusion Nanodegree At Udacity (completed on 23-10-2019).
 
 As part of Udacity Honor code, your submissions to Udacity must be your own work, hence submitting this project as yours will cause you to break the Udacity Honor Code.
