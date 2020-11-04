@@ -1,3 +1,11 @@
+This project was submitted by Vimal kumar V as part of the Sensor Fusion Nanodegree At Udacity (completed on 23-10-2019).
+
+As part of Udacity Honor code, your submissions to Udacity must be your own work, hence submitting this project as yours will cause you to break the Udacity Honor Code.
+
+The files provided here should only be used in accordance with the rules and regulations stipulated by Udacity for the project files of its Nanodegree programs.
+
+The following description of project objective was provided from Udacity
+
 # SFND 2D Feature Tracking
 
 <img src="images/keypoints.png" width="820" height="248" />
