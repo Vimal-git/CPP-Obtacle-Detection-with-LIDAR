@@ -1,3 +1,13 @@
+This project was submitted by Vimal kumar V as part of the Sensor Fusion Nanodegree At Udacity (completed on 23-10-2019).
+
+As part of Udacity Honor code, your submissions to Udacity must be your own work, hence submitting this project as yours will cause you to break the Udacity Honor Code.
+
+The files provided here should only be used in accordance with the rules and regulations stipulated by Udacity for the project files of its Nanodegree programs.
+
+The files containing part of code implented by me are listed in ModifiedUdacityFiles.pdf
+
+The following description of project objective was provided from Udacity
+
 # SFND 3D Object Tracking
 
 Welcome to the final project of the camera course. By completing all the lessons, you now have a solid understanding of keypoint detectors, descriptors, and methods to match them between successive images. Also, you know how to detect objects in an image using the YOLO deep-learning framework. And finally, you know how to associate regions in a camera image with Lidar points in 3D space. Let's take a look at our program schematic to see what we already have accomplished and what's still missing.
