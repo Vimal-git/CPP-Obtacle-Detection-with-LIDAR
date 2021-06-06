@@ -1,6 +1,3 @@
-The project files uploaded here were submitted by Vimal kumar V as part of the Sensor Fusion
-Nanodegree at Udacity (completed on 23-10-2019).
-
-The files provided here should only be used in accordance with the rules and 
-regulations stipulated by Udacity for the project files of its Nanodegree programs.
+The files provided here were developed from the base codes provided from the the Sensor Fusion
+Nanodegree of Udacity.This should be clearly acknowledged if the code provided here reused.
 
